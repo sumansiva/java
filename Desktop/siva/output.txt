@@ -1,0 +1,10 @@
+total 32
+drwxr-xr-x 2 sivaramasamy sivaramasamy 4096 Jul  4 11:54 Desktop
+drwxr-xr-x 2 sivaramasamy sivaramasamy 4096 Jul  4 11:54 Documents
+drwxr-xr-x 2 sivaramasamy sivaramasamy 4096 Jul  4 11:54 Downloads
+drwxr-xr-x 2 sivaramasamy sivaramasamy 4096 Jul  4 11:54 Music
+drwxr-xr-x 2 sivaramasamy sivaramasamy 4096 Jul  4 11:54 Pictures
+drwxr-xr-x 2 sivaramasamy sivaramasamy 4096 Jul  4 11:54 Public
+drwxr-xr-x 2 sivaramasamy sivaramasamy 4096 Jul  4 11:54 Templates
+drwxr-xr-x 2 sivaramasamy sivaramasamy 4096 Jul  4 11:54 Videos
+-rw-rw-r-- 1 sivaramasamy sivaramasamy    0 Jul  4 12:09 output.txt
